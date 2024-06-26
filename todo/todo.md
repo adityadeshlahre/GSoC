@@ -16,17 +16,17 @@ ALL admin pages which need to be converted from JSP to ReactJS
 
 **Not Done:**
 
-- [ ] Analyzer Test Names
+- [x] Analyzer Test Names
 - [ ] Batch test reassignment and cancelation
 - [ ] External Connections
 - [ ] Field Validation Configuration
-- [ ] List Plugins
+- [x] List Plugins
 - [ ] Menu Configuration
-- [ ] Organization [partially done]
-- [ ] Result Reporting Configuration
+- [x] Organization [partially done]
+- [x] Result Reporting Configuration
 - [ ] Test Management
 - [ ] Test Notification Configuration
-- [ ] User Management [partially done]
+- [x] User Management [partially done]
 
 #### Phase 1 :
 
