@@ -5,7 +5,7 @@ ALL admin pages which need to be converted from JSP to ReactJS
 **Done:**
 
 - [x] Barcode Configuration
-- [x] Dictionary
+- [x] Dictionary (Need a multi selection fix)
 - [x] Order Entry Configuration
 - [x] Patient Entry Configuration
 - [x] Printed Reports Configuration
@@ -24,9 +24,10 @@ ALL admin pages which need to be converted from JSP to ReactJS
 
 - [ ] Batch test reassignment and cancelation
 - [ ] External Connections
-- [ ] Menu Configuration
+- [ ] Menu Configuration (MenuStatementConfigMenu)
 - [ ] Test Management
 - [ ] Test Notification Configuration
+- [ ] NonConformityConfigurationMenu
 
 #### Phase 1 :
 
