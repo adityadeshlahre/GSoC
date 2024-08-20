@@ -7,7 +7,6 @@ ALL admin pages which need to be converted from JSP to ReactJS
 **Done:**
 
 - [x] Barcode Configuration
-
 - [x] Order Entry Configuration
 - [x] Patient Entry Configuration
 - [x] Printed Reports Configuration
@@ -26,10 +25,35 @@ ALL admin pages which need to be converted from JSP to ReactJS
 
 **Not Done:**
 
-- [ ] Batch test reassignment and cancelation
+- [x] NonConformityConfigurationMenu
+- [x] Menu Configuration (MenuStatementConfigMenu)
 - [x] Dictionary (Need a multi selection fix)
 - [ ] External Connections
-- [ ] Menu Configuration (MenuStatementConfigMenu)
+- [x] Batch test reassignment and cancelation
+- [x] Test Notification Configuration
 - [ ] Test Management
-- [ ] Test Notification Configuration
-- [ ] NonConformityConfigurationMenu
+
+#### Sub pages Under Test Management
+
+**DONE:**
+
+- [x] Rename existing test names
+- [x] Rename Existing Panels
+- [x] Rename Existing Test Sections
+- [x] Rename Existing Unit of Measure Entries
+- [x] Rename existing result list options
+- [x] Rename existing method names
+- [x] View Test Catalog
+- [x] Manage Methods
+
+**Not Done:**
+
+- [ ] Add new tests
+- [ ] Modify tests
+- [ ] Activate/Deactivate tests
+- [ ] Enable/disable test orderability.
+- [ ] Manage Test Units
+- [ ] Manage Sample Types
+- [ ] Manage Units of Measure
+- [ ] Manage Panels
+- [ ] Manage Testing Algorithms and Reflex tests
