@@ -1,4 +1,4 @@
-## GSoC
+## GSoC 2024
 
 ALL admin pages which need to be converted from JSP to ReactJS
 
@@ -28,10 +28,16 @@ ALL admin pages which need to be converted from JSP to ReactJS
 - [x] NonConformityConfigurationMenu
 - [x] Menu Configuration (MenuStatementConfigMenu)
 - [x] Dictionary (Need a multi selection fix)
-- [ ] External Connections
+- [ ] External Connections (Extended GSoC 2025)
 - [x] Batch test reassignment and cancelation
 - [x] Test Notification Configuration
-- [ ] Test Management
+- [ ] Test Management (Extended GSoC 2025)
+
+<hr />
+
+## GSoC 2025
+
+Rewrite Test Management Pages from JSP to ReactJS
 
 #### Sub pages Under Test Management
 
@@ -48,12 +54,16 @@ ALL admin pages which need to be converted from JSP to ReactJS
 
 **Not Done:**
 
+#### Phase 1 :
+
 - [ ] Add new tests
 - [ ] Modify tests
 - [ ] Activate/Deactivate tests
-- [ ] Enable/disable test orderability.
+- [x] Enable/disable test orderability.
 - [ ] Manage Test Units
 - [ ] Manage Sample Types
 - [ ] Manage Units of Measure
 - [ ] Manage Panels
-- [ ] Manage Testing Algorithms and Reflex tests
+- [ ] Add Result Select List
+
+#### Phase 2 :
