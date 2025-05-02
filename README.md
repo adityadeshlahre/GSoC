@@ -10,7 +10,11 @@
 
 I might update my (PR/ISSUES)'s lets see
 
-#### My Proposal [PROPOSAL](./proposal/proposal.pdf)
+#### My Proposals
+
+- :page_facing_up: [2024_PROPOSAL](./proposal/2024/proposal.pdf)
+
+- :page_with_curl: [2025_PROPOSAL](./proposal/2025/proposal.pdf)
 
 ##### Todo List [TODO](./todo/todo.md)
 

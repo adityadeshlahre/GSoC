@@ -64,6 +64,6 @@ Rewrite Test Management Pages from JSP to ReactJS
 - [ ] Manage Sample Types
 - [x] Manage Units of Measure
 - [ ] Manage Panels
-- [ ] Add Result Select List
+- [x] Add Result Select List
 
 #### Phase 2 :
