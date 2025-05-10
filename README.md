@@ -4,7 +4,9 @@
 
 ### List of Blogs
 
-1. <a href="https://talk.openelis-global.org/t/gsoc-2024-rewite-admin-page-components-from-jsp-to-react/729" target="_blank">GSoC 2024: Rewite Admin Page components from JSP to React</a>
+1. <a href="https://talk.openelis-global.org/t/gsoc-2024-rewite-admin-page-components-from-jsp-to-react/729" target="_blank">GSoC 2024: Rewrite Admin Page components from JSP to React</a>
+
+2. <a href="https://talk.openelis-global.org/t/gsoc-2025-rewrite-test-management-components-pages-from-jsp-to-reactjs/1545" target="_blank">GSoC 2025: Rewrite Test Management Components & Pages from JSP to ReactJs</a>
 
 - All My project work specific update in above blog
 
