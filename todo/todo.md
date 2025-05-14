@@ -56,14 +56,24 @@ Rewrite Test Management Pages from JSP to ReactJS
 
 #### Phase 1 :
 
+- [x] Activate/Deactivate tests
+- [x] Enable/disable test orderability
+- [x] Manage Units of Measure
+- [x] Add Result Select List
+- [x] Manage Units of Measure
 - [ ] Add new tests
 - [ ] Modify tests
-- [x] Activate/Deactivate tests
-- [x] Enable/disable test orderability.
 - [ ] Manage Test Units
+  - [ ] Create new Test unit
+  - [ ] set test unit order
+  - [ ] test assignment
 - [ ] Manage Sample Types
-- [x] Manage Units of Measure
+  - [] Create new sample type
+  - [] set sample type order
+  - [] test assignment
 - [ ] Manage Panels
-- [x] Add Result Select List
+  - [x] Create new panel
+  - [x] Set panel order
+  - [] test assignment
 
 #### Phase 2 :
