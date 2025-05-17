@@ -61,19 +61,20 @@ Rewrite Test Management Pages from JSP to ReactJS
 - [x] Manage Units of Measure
 - [x] Add Result Select List
 - [x] Manage Units of Measure
+- [ ] External Connections
 - [ ] Add new tests
 - [ ] Modify tests
 - [ ] Manage Test Units
-  - [ ] Create new Test unit
+  - [x] Create new Test unit
   - [ ] set test unit order
   - [ ] test assignment
 - [ ] Manage Sample Types
-  - [] Create new sample type
-  - [] set sample type order
-  - [] test assignment
+  - [x] Create new sample type
+  - [ ] set sample type order
+  - [ ] test assignment
 - [ ] Manage Panels
   - [x] Create new panel
   - [x] Set panel order
-  - [] test assignment
+  - [ ] test assignment
 
 #### Phase 2 :
