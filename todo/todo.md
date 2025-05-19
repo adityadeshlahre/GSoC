@@ -64,15 +64,15 @@ Rewrite Test Management Pages from JSP to ReactJS
 - [ ] External Connections
 - [ ] Add new tests
 - [ ] Modify tests
-- [ ] Manage Test Units
+- [x] Manage Test Units
   - [x] Create new Test unit
-  - [ ] set test unit order
-  - [ ] test assignment
-- [ ] Manage Sample Types
+  - [x] set test unit order
+  - [x] test assignment
+- [x] Manage Sample Types
   - [x] Create new sample type
-  - [ ] set sample type order
-  - [ ] test assignment
-- [ ] Manage Panels
+  - [x] set sample type order
+  - [x] test assignment
+- [x] Manage Panels
   - [x] Create new panel
   - [x] Set panel order
   - [ ] test assignment
