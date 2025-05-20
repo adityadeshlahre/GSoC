@@ -75,6 +75,6 @@ Rewrite Test Management Pages from JSP to ReactJS
 - [x] Manage Panels
   - [x] Create new panel
   - [x] Set panel order
-  - [ ] test assignment
+  - [x] test assignment
 
 #### Phase 2 :
