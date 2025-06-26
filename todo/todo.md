@@ -62,7 +62,7 @@ Rewrite Test Management Pages from JSP to ReactJS
 - [x] Add Result Select List
 - [x] Manage Units of Measure
 - [ ] External Connections
-- [ ] Add new tests
+- [x] Add new tests
 - [ ] Modify tests
 - [x] Manage Test Units
   - [x] Create new Test unit
