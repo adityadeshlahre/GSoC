@@ -18,6 +18,12 @@ I might update my (PR/ISSUES)'s lets see
 
 - :page_with_curl: [2025_PROPOSAL](./proposal/2025/proposal.pdf)
 
+#### Final GSoC Work Submission [GISTs]
+
+- :classical_building: [GSoC 2024](https://gist.github.com/adityadeshlahre/ee28a4c6100788ae23196e8e2394738f)
+
+- ::office: [GSoC 2025](https://gist.github.com/adityadeshlahre/6d0a63070f1758b84839f1e23e2e5485)
+
 ##### Todo List [TODO](./todo/todo.md)
 
 <hr />
