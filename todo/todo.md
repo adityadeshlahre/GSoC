@@ -28,10 +28,10 @@ ALL admin pages which need to be converted from JSP to ReactJS
 - [x] NonConformityConfigurationMenu
 - [x] Menu Configuration (MenuStatementConfigMenu)
 - [x] Dictionary (Need a multi selection fix)
-- [ ] External Connections (Extended GSoC 2025)
+- [ ] External Connections
 - [x] Batch test reassignment and cancelation
 - [x] Test Notification Configuration
-- [ ] Test Management (Extended GSoC 2025)
+- [x] Test Management (Extended GSoC 2025)
 
 <hr />
 
